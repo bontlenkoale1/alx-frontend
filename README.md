@@ -1,4 +1,4 @@
-![Screenshot (58)](https://github.com/bontlenkoale1/alx-frontend/assets/126960560/1e850168-2e3e-450a-97fb-95e603f8ba60)
+![IMG_20240326_193209](https://github.com/bontlenkoale1/alx-frontend/assets/126960560/9e90a590-af8d-4e9e-ac91-ba67bbe8b8e9)
 
 #   Resources
 # Read or watch

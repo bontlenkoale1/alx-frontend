@@ -1,22 +1,3 @@
-![IMG_20240326_193209](https://github.com/bontlenkoale1/alx-frontend/assets/126960560/9e90a590-af8d-4e9e-ac91-ba67bbe8b8e9)
-
-#   Resources
-# Read or watch
-
-CSS Reference - A free visual guide to CSS
-
-Can I use,,, Support tables for HTML5, CSS3, etc
-
-CSS Reference
-
-CSS Properties | HTML Dog
-
-Box Sizing
-
-CSS specificity calculator
-
-Play with CSS selector
-
 # Learning Objectives
 
 • At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
